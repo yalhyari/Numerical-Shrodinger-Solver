@@ -1,2 +1,2 @@
-# Numverical-Shrodinger-Solver
+# Numerical-Shrodinger-Solver
 This MATLAB function was created as part of a project to solve the Schrödinger equation using numerical methods, specifically the finite difference method. The function computes solutions for various potential wells encountered in quantum mechanics, including the Infinite Square Well, Finite Square Well, and Harmonic Oscillator. It provides both numerical results and graphical representations of the wavefunctions and energy levels. Users can input parameters such as well width, effective mass, and grid points.
